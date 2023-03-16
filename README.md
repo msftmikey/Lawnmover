@@ -1,7 +1,7 @@
 # Lawnmover Project 
 
 Miguel Mancera
-Sarah Glover
+& Sarah Glover
 
 Email: miguelmancera997@csu.fullerton.edu
-Emaail: s_glover@csu.fullerton.edu
+Email: s_glover@csu.fullerton.edu
